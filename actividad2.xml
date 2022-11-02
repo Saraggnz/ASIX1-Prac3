@@ -1,0 +1,8 @@
+<empleados>
+    <empleado>
+        <nombre> Ivan </nombre>
+        <apellido> Rodriguez </apellido>
+        <telefono> 948554832 </telefono>
+        <direccion> C/ Barcelona, 23</direccion>
+    </empleado>
+</empleados>
