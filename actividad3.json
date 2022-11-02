@@ -1,0 +1,22 @@
+{
+    "empleados":
+    {
+        "empleado":
+        [
+            {
+                "nombre": "Ivan",
+                "apellido": "Rodriguez",
+                "telefono": "948555832",
+                "direccion": "C/Barcelona 23",
+                "email": "Ivrodri@gmail.com"
+            },
+            {
+                "nombre": "Teresa",
+                "apellido": "Gonzalez",
+                "telefono": "674388456",
+                "direccion": "C/ Bruguers,6",
+                "email": "teresag@gmail.com"
+            }
+        ]
+    }
+}
