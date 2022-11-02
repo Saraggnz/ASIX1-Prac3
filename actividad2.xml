@@ -4,5 +4,12 @@
         <apellido> Rodriguez </apellido>
         <telefono> 948554832 </telefono>
         <direccion> C/ Barcelona, 23</direccion>
+        <email> Ivrodri@gmail.com </email>
     </empleado>
+    <empleado>
+        <nombre> Teresa </nombre>
+        <apellido> Gonzalez </apellido>
+        <telefono> 674388456 </telefono>
+        <direccion> C/ Bruguers, 6 </direccion>
+        <email> teresag@gmail.com </email>
 </empleados>
